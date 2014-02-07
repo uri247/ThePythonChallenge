@@ -2,6 +2,7 @@
   <dictionary name="uri">
     <words>
       <w>fname</w>
+      <w>passwd</w>
     </words>
   </dictionary>
 </component>
