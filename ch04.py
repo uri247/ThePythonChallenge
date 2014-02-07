@@ -26,7 +26,7 @@ def main():
         else:
             nothing = 0
 
-    print pych_url(line)
+    print pych_url(line,suffix=False)
 
 if __name__ == '__main__':
     main()
